@@ -2,6 +2,7 @@
 /**
 * 
 */
+
  class FiguraGeometrica
 {
 	public $saludo ;
@@ -13,7 +14,7 @@
 	{
 		return $this->saludo;
 	}
-	
+
 
 }
 ?>
